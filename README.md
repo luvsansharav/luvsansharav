@@ -19,7 +19,10 @@ Software Development Engineer, Solutions Architect and DevOps/SRE.
 ## :man_technologist: WORK EXPERIENCE
 
 ### [Amazon](https://www.amazon.com/)
-#### DevOps Engineer/SRE (Jul 2017 - present)
+#### Software Development Engineer (May 2020 - present)
+- Built the cutting-edge technology to our selling partners and make them successful by proving most intelligent recommendations. 
+
+#### DevOps Engineer/SRE (Jul 2017 - May 2020)
 - Worked with 5 different software development teams focusing on operational excellence and improved their processes and procedures by at least 20% YoY. Created and developed 8+ automation tools and web portals to reduce operations overhead.
 
 - Built a serverless real-time safety application using AWS services (DynamoDB, SQS, SNS, S3, Lambda, API Gateway, IoT Core) in backend and ReactJS for UI. Enabled it on 200+ warehouses in NA, EU and IN regions and handling over ~300k transactions per day.
