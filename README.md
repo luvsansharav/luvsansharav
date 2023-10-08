@@ -1,15 +1,29 @@
-<img width="1396" alt="Screenshot 2023-10-08 at 12 21 12 AM" src="https://github.com/luvsansharav/luvsansharav/assets/9454187/566d15f9-cf8d-4f80-91bc-d3b9afb57cab">
+# Loya Altangerel
+I’m a software engineer, with over a decade of experience working on diverse projects, overcoming challenges, and contributing to the cutting-edge technologies.
 
-## Suray Platform
+### Professional Career
 
-The platform empowers you to acquire knowledge of proven solutions, access comprehensive design documentation, create infrastructure as code, and seamlessly deploy and manage your resources on AWS.
+- Software Engineer @ Wholefoods (Contract)
+- Sr Software Engineer @ ClickUp
+- Tech Lead / Advisor @ Steppelink LLC (Contract)
+- Software Development Engineer @ Amazon
+- DevOps Engineer @ Amazon
+- Tech Analyst / Vendor Consultant @ Infosys LTD
+- Software Engineer @ The Central Bank of Mongolia
+- Software Developer @ Interactive LLC
 
-### <SparkleIcon /> Domain specific solutions
+### As a Digital Nomad
 
-- Standard Solutions
-- E-commerce and Retail
-- Finance and Fintech
-- Education and E-Learning
-- Artificial Intelligence and Machine Learning
+I began my journey as a digital nomad and work remotely as a software engineer trying to contribute effectively to various projects while maintaining the flexibility to explore new horizons. Along the way, I met fellow digital nomads, locals, and individuals from diverse backgrounds.
 
-[Explore the platform.](https://suray.io/)
+**- Here we go!**
+
+We are now remote team of like-minded individuals, digital nomads and partner companies who could work together, share their knowledge, and embark on incredible journeys while solving technical challenges for clients worldwide.
+
+Learn more: https://technology.uudam.co/
+
+### Here is our first project!
+
+I took a deliberate hiatus from my professional commitments to dedicate time to learning cutting-edge technologies and pursuing passion-driven side projects that I had long envisioned. This break provided me with the invaluable opportunity to expand my skill set, deepen my understanding of emerging trends, and develop a range of innovative projects.
+
+Here is one of my favorite: https://suray.io
