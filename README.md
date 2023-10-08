@@ -1,14 +1,15 @@
-# Loya Altangerel
-* Software Development Engineer
-* Solutions Architect
-* DevOps Engineer
-* Site Reliability Engineer
+<img width="1396" alt="Screenshot 2023-10-08 at 12 21 12 AM" src="https://github.com/luvsansharav/luvsansharav/assets/9454187/566d15f9-cf8d-4f80-91bc-d3b9afb57cab">
 
-10+ years of professional software development experience: *System design, development, problem solving, automation, distributed systems, monitoring, troubleshooting, testing, reliability, security, cost optimization, performance efficiency, operational excellence, capacity planning, fleet management, serverless application*
+## Suray Platform
 
-**Technical:** ```Java, Python, JavaScript, Spring MVC/Boot, ReactJS, AWS, GCP, CI/CD, Docker, Linux/Unix```
+The platform empowers you to acquire knowledge of proven solutions, access comprehensive design documentation, create infrastructure as code, and seamlessly deploy and manage your resources on AWS.
 
-## CONTACT
-- :email: luvsansharav.a@gmail.com
-- :globe_with_meridians: https://www.linkedin.com/in/luvsansharav
-- :round_pushpin: Seattle, WA
+### <SparkleIcon /> Domain specific solutions
+
+- Standard Solutions
+- E-commerce and Retail
+- Finance and Fintech
+- Education and E-Learning
+- Artificial Intelligence and Machine Learning
+
+[Explore the platform.](https://suray.io/)
